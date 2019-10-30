@@ -102,7 +102,7 @@ redirect to the current or upcoming event).
 Ideas for Conferences and other events
 ---------------------------------------
 * Giving a talk (ok, this is the obvious)
-* Improv sessions https://codeandtalk.com/v/agile-india-2016/3-minute-improv-games-to-improve-your-teams-by-wayde-stallmann
+* Improve sessions https://codeandtalk.com/v/agile-india-2016/3-minute-improv-games-to-improve-your-teams-by-wayde-stallmann
 * Matching up mentors and mentees https://codeandtalk.com/v/clojure-conj-2016/overcoming-the-challenges-of-mentoring-kim-crayton
   The idea would be to do a much shorter talk and spend a lot more time on matching mentors and mentees.
 * Building a startup around conversations and communities
